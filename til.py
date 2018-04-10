@@ -51,11 +51,11 @@ import twitter
 # empty list to store the facts
 fact_list = []
 
-API_key = 'rq1elvuOIkwmIvjqtIQddm3NX'
-API_secret = 'uZ5IVrpVS47tzY8Q0MdZhI8IpzlcvwJISgJeddyFzgKqecchoq'
+API_key = ''
+API_secret = ''
 
-Access_token = '773972046585982977-JoDlGk8Eyfcl76BHIIacI0wc7wpMN0w'
-Access_secret = 'waRzdGGYWeBP5NObxLC4FyMpEfBYVE31PliVQIELN8V5K'
+Access_token = ''
+Access_secret = ''
 
 
 my_auth = twitter.OAuth(Access_token, Access_secret, API_key, API_secret)
